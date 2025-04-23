@@ -1,0 +1,282 @@
+wbadmin delete catalog -quiet
+vssadmin.exe delete shadows /all /quiet
+\"C:\\WINDOWS\\system32\\vssadmin.exe\" delete
+bcdedit.exe /set {current} nx AlwaysOff
+wmic SHADOWCOPY DELETE
+wmic  shadowcopy delete 87
+\"c:\program files (x86)\microsoft\edgewebview\application\125.0.2535.92\installer\setup.exe\" --msedgewebview --delete-old-versions --system-level --verbose-logging 87
+vssadmin  delete shadows /all /quiet 86
+wbadmin  delete catalog -quiet 64
+"c:\windows\system32\cmd.exe" /c wbadmin delete catalog -quiet 40
+wmic  csproduct get uuid 33
+"c:\windows\system32\cmd.exe" /c vssadmin.exe delete shadows /all /quiet 29
+vssadmin.exe  delete shadows /all /quiet 27
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /all /quiet & wmic shadowcopy delete 26
+vssadmin  delete shadows /all /quiet  25
+wmic.exe shadowcopy /nointeractive 24
+"c:\windows\system32\cmd.exe" /c wmic shadowcopy delete 13
+cmd.exe /c "vssadmin resize shadowstorage /for=o: /on=c: /maxsize=401mb" 8
+vssadmin.exe  delete shadows /all /quiet  8
+"c:\windows\sysnative\vssadmin.exe"  delete shadows /all /quiet 8
+"c:\windows\system32\cmd.exe" /c wbadmin delete systemstatebackup 7
+wmic  shadowcopy delete /nointeractive 7
+c:\windows\system32\cmd.exe /c c:\windows\sysnative\vssadmin.exe delete shadows /all /quiet 6
+/c wbadmin delete catalog -quiet && vssadmin.exe delete shadows /all /quiet && bcdedit.exe /set {current} nx alwaysoff && wmic shadowcopy delete 6
+wbadmin  delete catalog -quiet  6
+"c:\windows\system32\cmd.exe" /c sc delete "mssqlfdlauncher"&&sc delete "mssqlserver"&&sc delete "sqlserveragent"&&sc delete "sqlbrowser"&&sc delete "sqltelemetry"&&sc delete "msdtsserver130"&&sc delete "ssistelemetry130"&&sc delete "sqlwriter"&&sc delete "mssql$veeamsql2012"&&sc delete "sqlagent$veeamsql2012"&&sc delete "mssql"&&sc delete "sqlagent"&&sc delete "mssqlserveradhelper100"&&sc delete "mssqlserverolapservice"&&sc delete "msdtsserver100"&&sc delete "reportserver"&&sc delete "sqltelemetry$hl"&&sc  6
+sc  delete "mssqlfdlauncher" 6
+wmic shadowcopy delete /nointeractive 6
+c:\windows\syswow64\cmd /c wmic shadowcopy delete /nointeractive 6
+c:\windows\syswow64\cmd /c wbadmin delete systemstatebackup -deleteoldest 6
+c:\windows\syswow64\cmd /c wbadmin delete systemstatebackup -keepversions:0 6
+c:\windows\syswow64\cmd /c wbadmin delete backup -deleteoldest 6
+c:\windows\syswow64\cmd /c wbadmin delete backup -keepversions:0 6
+c:\windows\syswow64\cmd /c vssadmin delete shadows /all /quiet 6
+wmic  shadowcopy delete  5
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /all /quiet 5
+cmd.exe /c "wbadmin delete systemstatebackup" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=q: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=h: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=r: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=b: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=c: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin delete shadows /all /quiet" 4
+cmd.exe /c "wbadmin delete catalog -quiet" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=j: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=s: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=m: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=t: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=x: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=k: /on=c: /maxsize=401mb" 4
+cmd.exe /c "wbadmin delete systemstatebackup -deleteoldest" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=v: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=d: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=u: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=z: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=l: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=a: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=f: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=w: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=n: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=y: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=i: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=g: /on=c: /maxsize=401mb" 4
+cmd.exe /c "vssadmin resize shadowstorage /for=e: /on=c: /maxsize=401mb" 4
+"c:\windows\system32\vssadmin.exe" delete shadows /all   /quiet  4
+ delete shadows /all /quiet 4
+c:\windows\system32\cmd.exe /c c:\windows\system32\vssadmin.exe delete shadows /all /quiet 3
+c:\windows\system32\vssadmin.exe  delete shadows /all /quiet 3
+"c:\windows\system32\cmd.exe" /c 	vssadmin.exe delete shadows /all /quiet 3
+"c:\windows\system32\cmd.exe" /c 	wmic shadowcopy delete 3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=z: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=y: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=x: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=w: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=v: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=u: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=t: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=s: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=r: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=q: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=p: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=o: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=n: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=m: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=l: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=k: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=j: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=i: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=h: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=g: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=f: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=e: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=d: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=c: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=b: /all /quiet  3
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /for=a: /all /quiet  3
+"c:\windows\system32\cmd.exe" wbadmin delete catalog -quiet 3
+c:\windows\sysnative\vssadmin.exe  delete shadows /all /quiet 3
+"c:\windows\system32\vssadmin.exe"  delete  shadows  /all   /quiet   3
+reg  delete "hkey_current_user\software\microsoft\terminal server client\default" /va /f 3
+reg  delete "hkey_current_user\software\microsoft\terminal server client\servers" /f 3
+c:\windows\system32\cmd.exe /c ""c:\users\gary\desktop\deletemyprogram.bat" " 2
+c:\windows\system32\cmd.exe  /s /d /c" del deletemyprogram.bat" 2
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /all /quiet & wmic shadowcopy delete & bcdedit /set {default} bootstatuspolicy ignoreallfailures & bcdedit /set {default} recoveryenabled no & wbadmin delete catalog -quiet 2
+"c:\windows\system32\wbem\wmic.exe" wmic shadowcopy delete 2
+"powershell.exe" & get-wmiobject win32_shadowcopy | foreach-object { $_delete(); } 2
+"c:\windows\system32\cmd.exe" /c "vssadmin delete shadows /all /quiet" 2
+"c:\windows\system32\cmd.exe" /c "wbadmin delete systemstatebackup -keepversions:0" 2
+"c:\windows\system32\cmd.exe" /c "wbadmin delete backup -keepversions:0" 2
+"c:\windows\system32\cmd.exe" /c "wmic shadowcopy delete" 2
+cmd.exe /c vssadmin.exe delete shadows /all /quiet 2
+"c:\windows\syswow64\wbem\wmic.exe" process call create "c:\users\gary\desktop\43fbc1ee5c4ef4a5bfdbbd67407c4364e6cf205475250f97138f55db4c77002c.exe" 2
+"c:\windows\system32\cmd.exe" /c vssadmin.exe delete shadows /all /quiet
+reg delete "hkey_current_user\software\microsoft\terminal server client\default" /va /f
+reg delete "hkey_current_user\software\microsoft\terminal server client\servers" /f
+reg add "hkey_current_user\software\microsoft\terminal server client\servers"
+cd %userprofile%\documents\
+attrib default.rdp -s -h
+del default.rdp 
+for /f "tokens=*" %1 in ('wevtutil.exe el') do wevtutil.exe cl "%1" 2
+"wmic.exe" diskdrive get serialnumber 2
+"c:\windows\system32\cmd.exe" /c wmic.exe shadowcopy /nointeractive 2
+"c:\windows\system32\cmd.exe" /c vssadmin.exe delete shadows /all/ quiet 2
+vssadmin.exe  delete shadows /all/ quiet 2
+wmic.exe  shadowcopy /nointeractive 2
+c:\windows\system32\wbadmin.exe delete catalog -quiet 2
+c:\windows\system32\vssadmin.exe delete shadows /all /quiet 2
+"c:\windows\system32\wbem\wmic.exe" shadowcopy delete 2
+"c:\windows\syswow64\wbem\wmic.exe" process call create "cmd.exe /c vssadmin.exe delete shadows /all /quiet & bcdedit.exe /set {default} recoveryenabled no & bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures" 2
+cmd.exe /c vssadmin.exe delete shadows /all /quiet & bcdedit.exe /set {default} recoveryenabled no & bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures 2
+"cmd.exe" /c sc delete vss 2
+sc  delete vss 2
+c:\windows\system32\cmd.exe /c "wmic path win32_videocontroller get name" 2
+wmic  path win32_videocontroller get name 2
+cmd.exe /c vssadmin delete shadows /all /quiet 2
+/c vssadmin delete shadows /all /quiet 2
+/c wmic shadowcopy /nointeractive 2
+wmic  shadowcopy /nointeractive 2
+vssadmin delete shadows /all /quiet 2
+"c:\windows\system32\vssadmin.exe" delete shadows /all /quiet  2
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=c:\ /on=c:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=c:\ /on=c:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=d:\ /on=d:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=d:\ /on=d:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c fsutil.exe usn deletejournal /d c: 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=e:\ /on=e:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c wbadmin.exe delete catalog -quiet 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=e:\ /on=e:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=f:\ /on=f:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=f:\ /on=f:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=g:\ /on=g:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=g:\ /on=g:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=h:\ /on=h:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=h:\ /on=h:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=i:\ /on=i:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=i:\ /on=i:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=j:\ /on=j:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=j:\ /on=j:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=k:\ /on=k:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=k:\ /on=k:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=l:\ /on=l:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=l:\ /on=l:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=m:\ /on=m:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=m:\ /on=m:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=n:\ /on=n:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=n:\ /on=n:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=o:\ /on=o:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=o:\ /on=o:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=p:\ /on=p:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=p:\ /on=p:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=q:\ /on=q:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=q:\ /on=q:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=r:\ /on=r:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=r:\ /on=r:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=s:\ /on=s:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=s:\ /on=s:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=t:\ /on=t:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=t:\ /on=t:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=u:\ /on=u:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=u:\ /on=u:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=v:\ /on=v:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=v:\ /on=v:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=w:\ /on=w:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=w:\ /on=w:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=x:\ /on=x:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=x:\ /on=x:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=y:\ /on=y:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=y:\ /on=y:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=z:\ /on=z:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=z:\ /on=z:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=a:\ /on=a:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=a:\ /on=a:\ /maxsize=unbounded 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=b:\ /on=b:\ /maxsize=401mb 1
+"c:\windows\system32\cmd.exe" /c vssadmin resize shadowstorage /for=b:\ /on=b:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=c:\ /on=c:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=d:\ /on=d:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=d:\ /on=d:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=c:\ /on=c:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=f:\ /on=f:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=e:\ /on=e:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=f:\ /on=f:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=e:\ /on=e:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=y:\ /on=y:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=i:\ /on=i:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=h:\ /on=h:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=g:\ /on=g:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=j:\ /on=j:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=g:\ /on=g:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=p:\ /on=p:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=k:\ /on=k:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=h:\ /on=h:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=m:\ /on=m:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=n:\ /on=n:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=i:\ /on=i:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=m:\ /on=m:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=l:\ /on=l:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=k:\ /on=k:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=l:\ /on=l:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=j:\ /on=j:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=p:\ /on=p:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=q:\ /on=q:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=r:\ /on=r:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=o:\ /on=o:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=r:\ /on=r:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=o:\ /on=o:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=s:\ /on=s:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=q:\ /on=q:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=s:\ /on=s:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=t:\ /on=t:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=n:\ /on=n:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=t:\ /on=t:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=b:\ /on=b:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=u:\ /on=u:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=v:\ /on=v:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=a:\ /on=a:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=v:\ /on=v:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=z:\ /on=z:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=a:\ /on=a:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=u:\ /on=u:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=w:\ /on=w:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=x:\ /on=x:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=w:\ /on=w:\ /maxsize=401mb 1
+vssadmin  resize shadowstorage /for=x:\ /on=x:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=z:\ /on=z:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=y:\ /on=y:\ /maxsize=unbounded 1
+vssadmin  resize shadowstorage /for=b:\ /on=b:\ /maxsize=unbounded 1
+wbadmin.exe  delete catalog -quiet 1
+fsutil.exe  usn deletejournal /d c: 1
+"c:\windows\system32\vssadmin.exe" delete shadows /all /quiet 1
+"c:\windows\system32\cmd.exe" /c wmic shadowcopy delete  1
+"c:\windows\system32\vssadmin.exe"  delete shadows /all /quiet  1
+"c:\windows\system32\cmd.exe" /c vssadmin.exe delete shadows /all /quiet & wmic.exe shadowcopy delete & bcdedit /set {default} bootstatuspolicy ignoreallfailures & bcdedit /set {default} recoveryenabled no & wbadmin delete catalog -quiet 1
+wmic.exe  shadowcopy delete  1
+c:\windows\system32\cmd.exe /c "reg delete hkcu\software\classes\ms-settings /f" 1
+c:\windows\system32\cmd.exe /c "wmic csproduct get uuid" 1
+reg  delete hkcu\software\classes\ms-settings /f 1
+"c:\program files (x86)\microsoft\edgewebview\application\126.0.2592.68\installer\setup.exe" --msedgewebview --delete-old-versions --system-level --verbose-logging 1
+c:\windows\system32\cmd.exe /c wbadmin delete catalog -quiet 1
+cmd.exe /c vssadmin resize shadowstorage /for=c: /on=c: /maxsize=401mb 1
+cmd.exe /c vssadmin resize shadowstorage /for=c: /on=c: /maxsize=unbounded 1
+cmd.exe /c vssadmin resize shadowstorage /for=d: /on=d: /maxsize=401mb 1
+cmd.exe /c vssadmin resize shadowstorage /for=d: /on=d: /maxsize=unbounded 1
+cmd.exe /c vssadmin resize shadowstorage /for=e: /on=e: /maxsize=401mb 1
+cmd.exe /c vssadmin resize shadowstorage /for=e: /on=e: /maxsize=unbounded 1
+cmd.exe /c vssadmin resize shadowstorage /for=f: /on=f: /maxsize=401mb 1
+cmd.exe /c vssadmin resize shadowstorage /for=f: /on=f: /maxsize=unbounded 1
+cmd.exe /c vssadmin resize shadowstorage /for=g: /on=g: /maxsize=401mb 1
+cmd.exe /c vssadmin resize shadowstorage /for=g: /on=g: /maxsize=unbounded 1
+cmd.exe /c vssadmin resize shadowstorage /for=h: /on=h: /maxsize=401mb 1
+cmd.exe /c vssadmin resize shadowstorage /for=h: /on=h: /maxsize=unbounded 1
+"c:\program files (x86)\microsoft\edgewebview\application\125.0.2535.85\installer\setup.exe" --msedgewebview --delete-old-versions --system-level --verbose-logging 1
+"cmd.exe" /c vssadmin.exe delete shadows /all /quiet 1
+"c:\windows\system32\cmd.exe" /c vssadmin delete shadows /all /quiet & wmic shadowcopy delete & bcdedit /set {default} bootstatuspolicy ignoreallfailures & bcdedit /set {default} recoveryenabled no 1
+"c:\windows\syswow64\wbem\wmic.exe" process call create "c:\users\gary\desktop\3729c1d683690f752732ec18372a555abfb0d20c02ea3f9fe60ca6577722c9a8.exe" 1
+/c schtasks /delete /f /tn rhaegal 1
+schtasks  /delete /f /tn rhaegal 1
+cmd /c wmic shadowcopy delete /nointeractive 1
+cmd /c vssadmin.exe delete shadows /all /quiet 1
+cmd.exe /c vssadmin.exe delete shadows /quiet /all 1
+"c:\windows\system32\wbem\wmic.exe" process call create "cmd.exe /c vssadmin.exe delete shadows /quiet /all" 1
+vssadmin.exe  delete shadows /quiet /all 1
+"c:\windows\syswow64\cmd.exe" /c vssadmin delete shadows /all /quiet & wmic shadowcopy delete & bcdedit /set {default} bootstatuspolicy ignoreallfailures & bcdedit /set {default} recoveryenabled no & wbadmin delete catalog -quiet 1

@@ -1,0 +1,66 @@
+FWPUCLNT Trace Provider                  {5A1600D2-68E5-4DE7-BCF4-1C2D215FE0FE}
+Microsoft-Antimalware-Engine             {0A002690-3839-4E3A-B3B6-96D8DF868D99}
+Microsoft-Antimalware-Engine-Instrumentation {68621C25-DF8D-4A6B-AABC-19A22E296A7C}
+Microsoft-Antimalware-Protection         {E4B70372-261F-4C54-8FA6-A5A7914D73DA}
+Microsoft-Antimalware-RTP                {8E92DEEF-5E17-413B-B927-59B2F06A3CFC}
+Microsoft-Antimalware-Service            {751EF305-6C6E-4FED-B847-02EF79D26AEF}
+Microsoft-IEFRAME                        {5C8BB950-959E-4309-8908-67961A1205D5}
+Microsoft-Windows-Application-Experience {EEF54E71-0661-422D-9A98-82FD4940B820}
+Microsoft-Windows-AppModel-Runtime       {F1EF270A-0D32-4352-BA52-DBAB41E1D859}
+Microsoft-Windows-AsynchronousCausality  {19A4C69A-28EB-4D4B-8D94-5F19055A1B5C}
+Microsoft-Windows-CAPI2                  {5BBCA4A8-B209-48DC-A8C7-B23D3E5216FB}
+Microsoft-Windows-COM-Perf               {B8D6861B-D20F-4EEC-BBAE-87E0DD80602B}
+Microsoft-Windows-COM-RundownInstrumentation {2957313D-FCAA-5D4A-2F69-32CE5F0AC44E}
+Microsoft-Windows-COMRuntime             {BF406804-6AFA-46E7-8A48-6C357E1D6D61}
+Microsoft-Windows-Crypto-BCrypt          {C7E089AC-BA2A-11E0-9AF7-68384824019B}
+Microsoft-Windows-Crypto-NCrypt          {E8ED09DC-100C-45E2-9FC8-B53399EC1F70}
+Microsoft-Windows-Crypto-RSAEnh          {152FDB2B-6E9D-4B60-B317-815D5F174C4A}
+Microsoft-Windows-Deplorch               {B9DA9FE6-AE5F-4F3E-B2FA-8E623C11DC75}
+Microsoft-Windows-Devices-Query          {DF63D0DC-97C2-5E48-C1CC-7B46BFD4DF88}
+Microsoft-Windows-DXGI                   {CA11C036-0102-4A2D-A6AD-F03CFED5D3C9}
+Microsoft-Windows-Eventlog               {FC65DDD8-D6EF-4962-83D5-6E5CFE9CE148}
+Microsoft-Windows-FeatureConfiguration   {C2F36562-A1E4-4BC3-A6F6-01A7ADB643E8}
+Microsoft-Windows-Heap-Snapshot          {901D2AFA-4FF6-46D7-8D0E-53645E1A47F5}
+Microsoft-Windows-Kernel-AppCompat       {16A1ADC1-9B7F-4CD9-94B3-D8296AB1B130}
+Microsoft-Windows-MPS-CLNT               {37945DC2-899B-44D1-B79C-DD4A9E57FF98}
+Microsoft-Windows-Networking-Correlation {83ED54F0-4D48-4E45-B16E-726FFD1FA4AF}
+Microsoft-Windows-NetworkProfile         {FBCFAC3F-8459-419F-8E48-1F0B49CDB85E}
+Microsoft-Windows-RPC                    {6AD52B32-D609-4BE9-AE07-CE8DAE937E39}
+Microsoft-Windows-RPC-Events             {F4AED7C7-A898-4627-B053-44A7CAA12FCD}
+Microsoft-Windows-Shell-Core             {30336ED4-E327-447C-9DE0-51B652C86108}
+Microsoft-Windows-URLMon                 {245F975D-909D-49ED-B8F9-9A75691D6B6B}
+Microsoft-Windows-User Profiles General  {DB00DFB6-29F9-4A9C-9B3B-1F4F9E7D9770}
+Microsoft-Windows-User-Diagnostic        {305FC87B-002A-5E26-D297-60223012CA9C}
+Microsoft-Windows-UserPnp                {96F4A050-7E31-453C-88BE-9634F4E02139}
+Microsoft-Windows-Windows Defender       {11CD958A-C507-4EF3-B3F2-5FD9DFBD2C78}
+Microsoft-Windows-WinHttp                {7D44233D-3055-4B9C-BA64-0D47CA40A232}
+Microsoft-Windows-WinINet-Pca            {4860EA43-3F05-5FB8-20CE-7BA346A44747}
+Microsoft-Windows-WinRT-Error            {A86F8471-C31D-4FBC-A035-665D06047B03}
+Microsoft-Windows-Winsock-NameResolution {55404E71-4DB9-4DEB-A5F5-8F86E46DDE56}
+Microsoft-Windows-Winsock-Sockets        {BDE46AEA-2357-51FE-7367-D5296F530BD1}
+Microsoft-Windows-Winsock-WS2HELP        {D5C25F9A-4D47-493E-9184-40DD397A004D}
+Network Profile Manager                  {D9131565-E1DD-4C9E-A728-951999C2ADB5}
+User-mode PnP Manager Trace              {A676B545-4CFB-4306-A067-502D9A0F2220}
+Windows Defender Firewall API            {28C9F48F-D244-45A8-842F-DC9FBC9B6E92}
+WMI_Tracing                              {1FF6B227-2CA7-40F9-9A66-980EADAA602E}
+WMI_Tracing_Client_Operations            {8E6B6962-AB54-4335-8229-3255B919DD0E}
+Microsoft-Windows-Graphics-DXGI          {03BBE5B8-C788-4D0B-B47E-5B5731398A89}
+Microsoft-Windows-Kernel-KernelBase      {05F95EFE-7F75-49C7-A994-60A55CC09571}
+Microsoft-Windows-Firewall-API           {0998DFB7-59D7-4E82-92CE-8A83E7C0BB3E}
+Microsoft-Windows-App-Browser            {0BCA4784-8257-51A0-D9EC-24FE1FE4C90D}
+Microsoft-Windows-DriverStore            {0E0FE12B-E926-44D2-8CF1-8A62A6D44036}
+CombaseTraceLoggingProvider              {1AFF6089-E863-4D36-BDFD-3581F07440BE}
+Microsoft-Windows-Shell-FileExplorer-Aggregate   {32980F26-C8F5-5767-6B26-635B3FA83C61}
+Microsoft-Windows-Kernel-Base            {3C74AFB9-8D82-44E3-B52C-365DBF48382A}
+Microsoft-Windows-Security-Mpr           {5EB60B36-6206-5538-E60A-0A7AF8A1E59D}
+Microsoft-Windows-TlgAggregateInternal   {703FCC13-B66F-5868-DDD9-E2DB7F381FFB}
+Microsoft-Antimalware-Scan-Interface     {7A01E7FB-B6A4-4585-B1A8-EA2094ECB4C5}
+Microsoft-Windows-Defender               {7AF898D7-7E0E-518D-5F96-B1E79239484C}
+EventLogEvents                           {BF30465B-E93C-46FD-9CDF-F41C8904A01F}
+Microsoft-Windows-Com-PoFAggregate       {C7E09E2A-C663-5399-AF79-2FCCD321D19A}
+Microsoft-Windows-Winsock2               {D0F1A5C6-FC43-48AE-99BF-EFB1C38BE9D1}
+Microsoft-Windows-Security-WSC           {E6B5B34F-BD4D-5CDC-8346-EF4DC6CF1927}
+Microsoft-Windows-WinRTClassActivation   {F0558438-F56A-5987-47DA-040CA75AEF05}
+Microsoft-Windows-User32                 {F25BCD2E-2690-55DC-3BC4-07B65B1B41C9}
+Microsoft-Windows-Security-BCrypt        {F3A71A4B-6118-4257-8CCB-39A33BA059D4}
+Microsoft-Web-Platform                   {FF32ADA1-5A4B-583C-889E-A3C027B201F5}
